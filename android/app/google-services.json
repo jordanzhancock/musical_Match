@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062523485004",
+    "project_id": "musical-matcher",
+    "storage_bucket": "musical-matcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062523485004:android:f6534dfde0fb89d02cade9",
+        "android_client_info": {
+          "package_name": "com.example.musical_matcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062523485004-0t1k1nm8invnutp7covh2a5uks1hs3pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3YGu5Wekw7g3cRsMHXCS-PoEPRfOZbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062523485004-0t1k1nm8invnutp7covh2a5uks1hs3pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
